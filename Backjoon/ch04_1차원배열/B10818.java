@@ -1,4 +1,4 @@
-package Algorithm.Backjoon.ch03_반복문;
+package Algorithm.Backjoon.ch04_1차원배열;
 import java.io.*;
 import java.util.*;
 // 정수를 입력받고 그 갯수만큼의 정수를 입력받고 그 중 가장 큰 수와 가장 작은 수를 출력하는 문제
