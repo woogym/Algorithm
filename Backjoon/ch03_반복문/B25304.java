@@ -1,4 +1,4 @@
-package Algorithm.Backjoon.ch02_조건문;
+package Algorithm.Backjoon.ch03_반복문;
 
 import java.io.BufferedReader;
 import java.io.IOException;
