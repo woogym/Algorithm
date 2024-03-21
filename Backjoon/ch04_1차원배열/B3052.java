@@ -3,7 +3,9 @@ package Algorithm.Backjoon.ch04_1차원배열;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.Iterator;
 
 public class B3052 {
     public static void main(String[] args) throws IOException {
@@ -18,3 +20,4 @@ public class B3052 {
         System.out.println(hashSet.size());
     }
 }
+// 10개의 수를 입력받아 42로 나눈 나머지가 서로 다른 값이 몇개인지 출력하는 문제
