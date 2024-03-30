@@ -43,6 +43,7 @@ public class B1316 {
                 }
             }
 
+            // else문은 필요없음
             else {
                 continue;
             }
