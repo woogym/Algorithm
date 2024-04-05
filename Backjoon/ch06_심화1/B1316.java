@@ -38,6 +38,7 @@ public class B1316 {
                     prev = now; // 다음 턴을 위한 작업
                 }
 
+                // 해당 문자가 이미 나온 적이 있는 경우
                 else {
                     return false;
                 }
