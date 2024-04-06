@@ -40,7 +40,7 @@ public class B1316 {
 
                 // 해당 문자가 이미 나온 적이 있는 경우
                 else {
-                    return false;
+                    return false; // 함수 종료
                 }
             }
 
