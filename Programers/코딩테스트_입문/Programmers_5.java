@@ -1,5 +1,6 @@
 package Algorithm.Programers.코딩테스트_입문;
 
+// 숫자 비교하기
 public class Programmers_5 {
 
     class Solution {
