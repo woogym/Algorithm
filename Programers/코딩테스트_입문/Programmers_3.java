@@ -1,5 +1,6 @@
 package Algorithm.Programers.코딩테스트_입문;
 
+// 두 수 곱하기
 public class Programmers_3 {
 
     class Solution {
