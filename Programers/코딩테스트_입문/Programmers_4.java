@@ -1,5 +1,6 @@
 package Algorithm.Programers.코딩테스트_입문;
 
+// 두 수 나누기
 public class Programmers_4 {
 
     class Solution {
