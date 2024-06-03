@@ -1,5 +1,6 @@
 package Algorithm.Programers.코딩테스트_입문;
 
+// 두 수의 차 구하기
 public class Programmers_2 {
 
     class Solution {
