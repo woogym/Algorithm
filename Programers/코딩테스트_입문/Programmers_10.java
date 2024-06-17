@@ -1,5 +1,7 @@
 package Algorithm.Programers.코딩테스트_입문;
 
+import java.util.stream.IntStream;
+
 public class Programmers_10 {
     class Solution {
         public int solution(int number) {
@@ -28,6 +30,13 @@ public class Programmers_10 {
             }
 
             return answer;
+        }
+
+        // stream을 이용한 풀이 방법
+        public int solutoin2(int number) {
+            return IntStream.rangeClosed(0, number)
+                    .filter(e -> e % 2 == 0)
+                    .sum();
         }
     }
 }
