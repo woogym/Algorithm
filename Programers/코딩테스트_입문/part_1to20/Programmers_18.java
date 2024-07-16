@@ -1,4 +1,4 @@
-package Algorithm.Programers.코딩테스트_입문;
+package Algorithm.Programers.코딩테스트_입문.part_1to20;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
