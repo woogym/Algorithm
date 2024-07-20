@@ -18,6 +18,7 @@ public class Programmers_30 {
             return answer;
         }
 
+        // 다른 사람들의 풀이 공부
         public int solution1(String my_string) {
 
             // 이렇게 하면 문자 1이 아스키코드가 아닌 정수 1로 변형이 된다
