@@ -1,5 +1,6 @@
 package Algorithm.Programers.코딩테스트_입문.part_21to40;
 
+// 대문자와 소문자
 public class Programmers_32 {
     class Solution {
         public String solution(String my_string) {

@@ -3,6 +3,7 @@ package Algorithm.Programers.코딩테스트_입문.part_21to40;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
+// 암호 해독
 public class Programmers_31 {
     class Solution {
         public String solution(String cipher, int code) {
