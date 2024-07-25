@@ -17,6 +17,12 @@ public class Programmers_35 {
             }
             System.out.println();
         }
+    }
+
+    // 이중 반복문 x 해결방법
+    public static void main1(String[] args) throws IOException{
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int num = Integer.parseInt(br.readLine());
 
         // repeat를 이용해서 하나의 반복문으로 해결가능
         for (int i = 1; i <= num; i++) {
