@@ -13,10 +13,11 @@ public class Programmers_21 {
             return answer;
         }
 
+        // 비트 연산자를 활용한 풀이
         public int solution1(int n, int t) {
             int answer = 0;
 
-            // 비트 연산자를 활용하기!
+            // 비트 연산자를 활용하기! n의 2진 비트들을 t번만큼 쉬프트 해서 계산
             answer = n << t;
 
             return answer;
