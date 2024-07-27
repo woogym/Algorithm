@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
+// 인덱스 바꾸기
 public class Programmers_36 {
     class Solution {
         public String solution(String my_string, int num1, int num2) {
