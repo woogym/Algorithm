@@ -2,6 +2,7 @@ package Algorithm.Programers.코딩테스트_입문.part_21to40;
 
 import java.util.Arrays;
 
+// 삼각형의 완성조건(1)
 public class Programmers_40 {
     class Solution {
         public int solution(int[] sides) {
