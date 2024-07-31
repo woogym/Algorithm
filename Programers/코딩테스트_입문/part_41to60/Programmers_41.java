@@ -1,5 +1,6 @@
 package Algorithm.Programers.코딩테스트_입문.part_41to60;
 
+// 점의 위치 구하기
 public class Programmers_41 {
     class Solution {
         public int solution(int[] dot) {
