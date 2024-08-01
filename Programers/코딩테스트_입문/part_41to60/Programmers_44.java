@@ -1,5 +1,8 @@
 package Algorithm.Programers.코딩테스트_입문.part_41to60;
 
+import java.util.Arrays;
+import java.util.HashSet;
+
 // 배열의 유사도
 public class Programmers_44 {
     class Solution {
@@ -32,6 +35,20 @@ public class Programmers_44 {
             }
 
             return answer;
+        }
+
+        // HashSet을 사용해서 solution1,2의 시간복잡도 O(nxm)을 o(n+m)으로 줄이기
+        public int solution3(String[] s1, String[] s2) {
+            int count = 0;
+            HashSet<String> set = new HashSet<>(Arrays.asList(s1));
+
+            for (String str : s2) {
+                if (set.contains(str)) {
+                    count++;
+                }
+            }
+
+            return count;
         }
     }
 }
