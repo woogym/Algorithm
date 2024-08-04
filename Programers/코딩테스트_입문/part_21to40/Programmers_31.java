@@ -11,12 +11,13 @@ public class Programmers_31 {
 
             // 실제 문자열 길이를 올바르게 책정하기 위해서 ciper.length() + 1
             // code의 배수부터 문자열을 책정하기에 i는 1부터 시작
-            for (int i = 1; i < cipher.length() + 1; i++) {
+            // 아래의 문자열 인덱스를 초과하게 책정되는것을 방지하기 위한 조건문은 인덱스가 -1까지만 있어서 런타임 오류를 발생함 따라서 반복문 순회조건을 수정하여 해결
+            for (int i = 1; i * code - 1 < cipher.length() + 1; i++) {
 
-                // code의 배수 위치마다 있는 문자열을 계산할때 문자열의 인덱스를 초과해서 책정되는것을 방지하기 위한 조건문
-                if (cipher.length() < (i * code - 1)) {
-                    break;
-                }
+//                 code의 배수 위치마다 있는 문자열을 계산할때 문자열의 인덱스를 초과해서 책정되는것을 방지하기 위한 조건문
+//                if (cipher.length() < (i * code - 1)) {
+//                    break;
+//                }
 
                 // i * code - 1 -> 우리가 눈으로 보는 문자열 ciper와 String에서의 문자열 index 번호와의 차이를 계산하기 위한 -1
                 // code가 4라면 처음 문자열의 인덱스 위치는 실제로 3이기 때문에
