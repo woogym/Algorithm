@@ -1,5 +1,6 @@
 package Algorithm.Programers.코딩테스트_입문.part_41to60;
 
+// 특정 문자 제거하기
 public class Programmers_48 {
     class Solution {
         public String solution(String my_string, String letter) {
