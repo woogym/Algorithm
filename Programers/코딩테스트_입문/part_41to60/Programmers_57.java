@@ -8,7 +8,6 @@ public class Programmers_57 {
             int answer;
             int num = 0;
 
-            // 최소 공약수 구하기 로직인듯?
             while (true) {
                 num++;
                 if ((n * num) % piece == 0) {
