@@ -21,5 +21,9 @@ public class Programmers_74 {
 
             return numbers[index];
         }
+
+        public int solution1(int[] numbers, int k) {
+            return (k-1)*2 % numbers.length + 1;
+        }
     }
 }
