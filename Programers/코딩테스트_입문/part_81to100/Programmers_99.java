@@ -1,7 +1,7 @@
-package Algorithm.Programers.코딩테스트_입문.part_1to20;
+package Algorithm.Programers.코딩테스트_입문.part_81to100;
 
 // 세균 증식
-public class Programmers_21 {
+public class Programmers_99 {
     class Solution {
         public int solution(int n, int t) {
             int answer = n;
