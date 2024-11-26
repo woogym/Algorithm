@@ -1,6 +1,6 @@
 package Algorithm.Programers.코딩테스트_기초;
 
-// 공백으로 구분하기
+// 공백으로 구분하기 2
 public class Programmers_10 {
     class Solution {
         public String[] solution(String my_string) {
