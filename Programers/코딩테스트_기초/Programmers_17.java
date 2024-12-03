@@ -1,5 +1,6 @@
 package Algorithm.Programers.코딩테스트_기초;
 
+// 길이에 따른 연산
 public class Programmers_17 {
     class Solution {
         public int solution(int[] num_list) {
