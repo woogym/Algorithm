@@ -1,5 +1,6 @@
 package Algorithm.Programers.코딩테스트_기초;
 
+// 두 수의 연산값 비교하기
 public class Programmers_19 {
     class Solution {
         public int solution(int a, int b) {
