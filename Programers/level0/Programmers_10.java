@@ -1,4 +1,4 @@
-package Algorithm.Programers.level1;
+package Algorithm.Programers.level0;
 
 // 이어 붙인 수
 public class Programmers_10 {

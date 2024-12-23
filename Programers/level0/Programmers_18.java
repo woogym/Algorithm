@@ -1,4 +1,4 @@
-package Algorithm.Programers.level1;
+package Algorithm.Programers.level0;
 
 // 첫 번째로 나오는 음수
 public class Programmers_18 {

@@ -1,4 +1,4 @@
-package Algorithm.Programers.level1;
+package Algorithm.Programers.level0;
 
 public class Programmers_9 {
     class Solution {

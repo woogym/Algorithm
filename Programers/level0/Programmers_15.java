@@ -1,4 +1,4 @@
-package Algorithm.Programers.level1;
+package Algorithm.Programers.level0;
 
 // n번째 원소까지
 public class Programmers_15 {

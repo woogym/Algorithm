@@ -1,6 +1,4 @@
-package Algorithm.Programers.level1;
-
-import java.util.*;
+package Algorithm.Programers.level0;
 
 public class Programmers_2 {
     class Solution {

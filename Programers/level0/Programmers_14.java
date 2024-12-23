@@ -1,7 +1,4 @@
-package Algorithm.Programers.level1;
-
-import java.util.ArrayList;
-import java.util.List;
+package Algorithm.Programers.level0;
 
 public class Programmers_14 {
     class Solution {

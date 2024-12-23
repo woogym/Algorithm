@@ -1,4 +1,4 @@
-package Algorithm.Programers.level1;
+package Algorithm.Programers.level0;
 
 // 문자열 정수로 바꾸기
 public class Programmers_7 {

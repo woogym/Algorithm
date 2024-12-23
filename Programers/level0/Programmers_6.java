@@ -1,4 +1,4 @@
-package Algorithm.Programers.level1;
+package Algorithm.Programers.level0;
 
 // 나머지가 1이 되는 수 찾기
 public class Programmers_6 {

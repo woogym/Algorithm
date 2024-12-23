@@ -1,4 +1,4 @@
-package Algorithm.Programers.level1;
+package Algorithm.Programers.level0;
 
 // x만큼 간격이 있는 n개의 숫자
 public class Programmers_5 {

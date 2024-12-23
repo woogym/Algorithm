@@ -1,4 +1,4 @@
-package Algorithm.Programers.level1;
+package Algorithm.Programers.level0;
 
 // 문자열의 앞의 n글자
 public class Programmers_20 {
