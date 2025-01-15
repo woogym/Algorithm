@@ -2,6 +2,7 @@ package Algorithm.Programers.level1;
 
 import java.util.Arrays;
 
+// 제일 작은수 제거하기
 public class P12935 {
     class Solution {
         public int[] solution(int[] arr) {
