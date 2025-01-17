@@ -1,5 +1,6 @@
 package Algorithm.Programers.level1;
 
+// 핸드폰 번호 가리기
 public class P12945 {
     class Solution {
         public String solution(String phone_number) {
