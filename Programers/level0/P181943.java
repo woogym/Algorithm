@@ -1,0 +1,12 @@
+package Algorithm.Programers.level0;
+
+public class P181943 {
+    class Solution {
+        public String solution(String my_string, String overwrite_string, int s) {
+            String prefix = my_string.substring(0, s);
+            String suffix = my_string.substring(s + overwrite_string.length());
+
+            return prefix + overwrite_string + suffix;
+        }
+    }
+}
