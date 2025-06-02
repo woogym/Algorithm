@@ -7,7 +7,7 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-// 미로 탐색, 그래프
+// 미로 탐색, 그래프 - 실버1
 public class B2178 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
