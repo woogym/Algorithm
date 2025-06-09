@@ -7,7 +7,7 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-// 토마토
+// 토마토 - 골드5
 public class B7576 {
 
     private static int COL;
