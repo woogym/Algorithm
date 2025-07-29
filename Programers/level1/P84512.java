@@ -60,7 +60,7 @@ public class P84512 {
                 answer += order * weight[i] + 1;
             }
 
-            return answer
+            return answer;
         }
     }
 }
