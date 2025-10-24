@@ -29,7 +29,7 @@ public class P42893 {
                 int out = foreignLinks.size();
 
                 foreignlinkMap.put(url, foreignLinks);
-                pointMap.put(url, new double[]{basicPoint, basicPoint, out == 0 ? 0.0 : (double) basicPoint / out});
+                pointMap.put(url, new double[]{basicPoint, basicPoint, (double) basicPoint / out});
             }
 
             for (String url : pointMap.keySet()) {
