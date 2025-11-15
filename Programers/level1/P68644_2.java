@@ -3,6 +3,7 @@ package Algorithm.Programers.level1;
 import java.util.HashSet;
 import java.util.Set;
 
+// 두 개 뽑아서 더하기
 public class P68644_2 {
     class Solution {
 
