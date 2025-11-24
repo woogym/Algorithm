@@ -7,6 +7,6 @@ public class Test {
         P43238 p43238 = new P43238();
         P43238.Solution solution = p43238.new Solution();
 
-        solution.
+//        solution.
     }
 }
