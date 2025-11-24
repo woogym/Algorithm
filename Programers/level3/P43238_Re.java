@@ -3,7 +3,7 @@ package Algorithm.Programers.level3;
 import java.util.Arrays;
 
 // 입국 심사 - 이중 탐색 문제
-public class P43238 {
+public class P43238_Re {
     class Solution {
         public long solution(int n, int[] times) {
             long answer = 0;

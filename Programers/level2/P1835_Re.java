@@ -2,7 +2,7 @@ package Algorithm.Programers.level2;
 
 
 // 단체 사직 찍기 - 2017 카카오코드 본선
-public class P1835 {
+public class P1835_Re {
     class Solution {
 
         private final Character[] friends = {'A', 'C', 'F', 'J', 'M', 'N', 'R', 'T'};
