@@ -1,12 +1,11 @@
 package Algorithm.Programers.level1;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-// 개인정보 수집 유효기간
+// 개인정보 수집 유효기간 - 2023 kakao blind recruitment
 public class P150370 {
     class Solution {
         public int[] solution(String today, String[] terms, String[] privacies) {
